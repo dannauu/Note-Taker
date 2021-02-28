@@ -19,7 +19,7 @@ Clone the repository, and then run npm install to install all neccessary depende
 ## Usage
 ### Application in use below
 ![](https://github.com/dannauu/Note-Taker/blob/main/Assets/11-express-homework-demo-01.png)
-### Output for user input (myteam.HTML)
+
 ![](https://github.com/dannauu/Note-Taker/blob/main/Assets/11-express-homework-demo-02.png)
 
 ## License
