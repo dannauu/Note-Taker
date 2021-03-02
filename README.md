@@ -3,6 +3,7 @@
 ## Table of Contents
 
 - [Description](#description)
+- [Deployed](#Deployed)
 - [Installation](#installation)
 - [Usage](#Usage)
 - [License](#License)
@@ -11,6 +12,9 @@
 ## Description
 
 Note Taker is a simple application that allows the user to create and delete notes. Built with Nodejs and Expressjs.
+
+## Deployed
+[Live App](https://secure-everglades-77184.herokuapp.com/)
 
 ## Installation
 
